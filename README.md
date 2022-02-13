@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Quang
-- 🌱 I’m currently learning university
-- 📫 How to reach me quanglng2020@gmail.com
+- 👋 Hi, my name is Lê Đăng Quang
+- 📅 Birth: 08/10/2003
+- 📫 Email: quanglng2020@gmail.com
 - See more here: https://gnauqoa.github.io/profile
 <!---
 Gnauqoa/Gnauqoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
