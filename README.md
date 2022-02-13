@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Lê Đăng Quang
+- 👋 Hi there, I'm Lê Đăng Quang
 - 📅 Birth: 08/10/2003
 - 🏫 Education: Ho Chi Minh University of Information and Technology
 - 📫 Email: quanglng2020@gmail.com
